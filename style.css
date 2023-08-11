@@ -1,1 +1,8 @@
-@import '~mdb-ui-kit/css/mdb.min.css';
+.carousel-inner{
+    height: 740px;
+    margin-top: 20px;
+}
+body
+{
+    background-color: red;
+}
