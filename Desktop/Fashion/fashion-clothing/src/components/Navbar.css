@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Delicious+Handrawn&display=swap');
+
+.NavText
+{
+    font-family: 'Delicious Handrawn', cursive;
+    font-size: 48px;
+    color: rgb(41, 42, 42);
+    margin-top: 12rem;
+    display: flex;
+
+    
+}
+.container-fluid
+{
+ font-style: italic;
+ color: black;
+
+}
+.navbar{
+    margin-top: 12rem;
+    display: flex;
+}
+
+.container{
+    background-color: aquamarine;
+    width: 1500px;
+    height: 150px;
+   
+     margin-top: -200px;
+    margin-left: px; 
+
+}
+ul{
+    list-style: none;
+    display: flex; 
+    padding: 4rem;
+    gap: 5rem;
+}
+
